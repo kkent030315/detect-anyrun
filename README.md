@@ -17,3 +17,4 @@ Part <u>3</u>: Coming Soon
   - ANY.RUN driver `A3E64E55_fl_x64.sys` is signed by WDK test certificate [attached here](./WDKTestCert%20SYSTEM,133087515274835630.cer).
 - The macshift embedded in the ANY.RUN package spoofs MAC address but it is still able to obtain the original *permanent* MAC address by calling out the NDIS driver.
 - The hypervisor presense bit in the CPU indicates is not present.
+- Pinning SSL/TLS certificate against most popular and stable website may help you identify the intermediate certificate inserted by ANY.RUN to sniff the traffics.
