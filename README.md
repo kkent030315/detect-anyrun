@@ -1,4 +1,4 @@
-# ANY.RUN Sandbox Detection #1
+# ANY.RUN Sandbox Detection
 
 - Part 1: The symblic device name of the driver.
 - Part 2: The non-standard filesystem behaviour under protected ANY.RUN installed files and folders.
